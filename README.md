@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <h3>GitHub Stats (Stable)</h3>
+  <h3>GitHub Stats</h3>
   
   <p>
     <img src="https://raw.githubusercontent.com/BrianHuang813/BrianHuang813/main/profile-summary-card-output/solarized_dark/0-profile-details.svg" alt="Profile Details" />
