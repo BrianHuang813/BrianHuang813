@@ -1,9 +1,9 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: 
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   build:
@@ -20,4 +20,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          THEME: solarized_dark
