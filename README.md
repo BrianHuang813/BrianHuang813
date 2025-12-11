@@ -26,12 +26,12 @@
   <h3>GitHub Stats (Stable)</h3>
   
   <p>
-    <img src="https://github.com/BrianHunag813/BrianHunag813/blob/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" alt="Profile Details" />
+    <img src="https://raw.githubusercontent.com/BrianHuang813/BrianHuang813/main/profile-summary-card-output/solarized_dark/0-profile-details.svg" alt="Profile Details" />
   </p>
   
   <p>
-    <img src="https://github.com//BrianHunag813/blob/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Top Langs" />
-    <img src="https://github.com/BrianHunag813/BrianHunag813/blob/master/profile-summary-card-output/solarized_dark/3-stats.svg" alt="Stats" />
+    <img src="https://raw.githubusercontent.com/BrianHuang813/BrianHuang813/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Top Langs" />
+    <img src="https://raw.githubusercontent.com/BrianHuang813/BrianHuang813/master/profile-summary-card-output/solarized_dark/3-stats.svg" alt="Stats" />
   </p>
 </div>
 
@@ -46,5 +46,5 @@
 
 <div align="center">
   <br/>
-  <i>Thanks for visiting! Let's connect.</i>
+  <i>Thanks for visiting! Feel free to connect.</i>
 </div>
