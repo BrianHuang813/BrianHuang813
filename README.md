@@ -36,8 +36,12 @@
 </div>
 
 <div align="center">
-  <h3>Contribution Snake</h3>
-  <img src="https://github.com/BrianHuang813/BrianHuang813/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+  <h3>My Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BrianHuang813/BrianHuang813/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/BrianHuang813/BrianHuang813/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/BrianHuang813/BrianHuang813/raw/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
