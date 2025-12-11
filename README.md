@@ -1,7 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=435&lines=Hello,+World!;Coding+is+Life.;Welcome+to+my+Universe." alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=435&lines=print(%22Hello,+World!%22);I'm+Kx+Huang!" alt="Typing SVG" />
   <br/>
 
   <p>
@@ -16,34 +15,28 @@
     </a>
     </p>
 
-  <h3>🛠️ Tech Stack</h3>
+  <h3>Tech Stack</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=react,ts,js,py,golang,move,llm,backend&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,golang,ts,js&theme=dark" />
   </p>
 
 </div>
 
----
-
 <div align="center">
-  <h3>📊 GitHub Analytics</h3>
+  <h3>GitHub Stats (Stable)</h3>
   
-  <table>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=你的帳號&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true" alt="Stats" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的帳號&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=6" alt="Languages" />
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://github.com/BrianHunag813/BrianHunag813/blob/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" alt="Profile Details" />
+  </p>
+  
+  <p>
+    <img src="https://github.com//BrianHunag813/blob/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Top Langs" />
+    <img src="https://github.com/BrianHunag813/BrianHunag813/blob/master/profile-summary-card-output/solarized_dark/3-stats.svg" alt="Stats" />
+  </p>
 </div>
 
----
-
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
+  <h3>Contribution Snake</h3>
   <img src="https://github.com/BrianHuang813/BrianHuang813/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
 </div>
 
