@@ -1,50 +1,54 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=435&lines=print(%22Hello,+World!%22);I'm+Kx+Huang!" alt="Typing SVG" />
-  <br/>
+<a href="https://kxhuang.dev">
+  <img src="assets/hero.svg" width="100%" alt="Kai Xiu Huang 黃楷修 — Fintech & blockchain developer, based in Taipei." />
+</a>
 
-  <p>
-    <a href="https://github.com/BrianHuang813">
-      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="mailto:partlysunny31@pm.me">
-      <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/kai-xiu-huang-768429253">
-      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    </p>
-
-  <h3>Tech Stack</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=cpp,py,golang,ts,js&theme=dark" />
-  </p>
+<br/>
+<sub>
+  <a href="https://kxhuang.dev">kxhuang.dev</a> &nbsp;·&nbsp;
+  <a href="https://kxhuang.dev/KaiXiu_Huang_CV.pdf">CV</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kai-xiu-huang-768429253/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/BrianHuang18">X</a> &nbsp;·&nbsp;
+  <a href="mailto:work@kxhuang.dev">work@kxhuang.dev</a>
+</sub>
 
 </div>
 
-<div align="center">
-  <h3>GitHub Stats</h3>
-  
-  <p>
-    <img src="https://raw.githubusercontent.com/BrianHuang813/BrianHuang813/main/profile-summary-card-output/solarized_dark/0-profile-details.svg" alt="Profile Details" />
-  </p>
-  
-  <p>
-    <img src="https://raw.githubusercontent.com/BrianHuang813/BrianHuang813/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Top Langs" />
-    <img src="https://raw.githubusercontent.com/BrianHuang813/BrianHuang813/master/profile-summary-card-output/solarized_dark/3-stats.svg" alt="Stats" />
-  </p>
-</div>
+<br/>
 
-<div align="center">
-  <h3>My Contribution Snake</h3>
+### Projects &nbsp;<sub><sup>專案</sup></sub>
+
+<p align="center">
+  <a href="https://kxhuang.dev/2026/06/06/BlinkMarket/"><img src="assets/project-blink-market.svg" width="49%" alt="Blink Market" /></a>
+  <a href="https://kxhuang.dev/2026/03/03/SuiAudit/"><img src="assets/project-suiaudit.svg" width="49%" alt="SuiAudit" /></a>
+  <a href="https://github.com/BrianHuang813/clawd-actor"><img src="assets/project-clawd-actor.svg" width="49%" alt="clawd-actor" /></a>
+  <a href="https://github.com/BrianHuang813/Crow"><img src="assets/project-crow.svg" width="49%" alt="Crow" /></a>
+  <a href="https://github.com/BrianHuang813/BlueLink-Backend"><img src="assets/project-bluelink.svg" width="49%" alt="BlueLink" /></a>
+  <a href="https://github.com/BrianHuang813/PortfolioManager"><img src="assets/project-portfolio-manager.svg" width="49%" alt="Portfolio Manager" /></a>
+</p>
+
+### Writing &nbsp;<sub><sup>文章</sup></sub>
+
+<!-- BLOG-POST-LIST:START -->
+- [Blink Market — A Binary Prediction Market Protocol on Sui](https://kxhuang.dev/2026/06/06/BlinkMarket/) <sub>2026-06-06</sub>
+- [What Gives Bitcoin Value? Consensus, Scarcity, and Utility](https://kxhuang.dev/2026/05/01/post_bitcoin_and_values/) <sub>2026-05-01</sub>
+- [SuiAudit — An AI Audit Tool for Sui Move Smart Contracts](https://kxhuang.dev/2026/03/03/SuiAudit/) <sub>2026-03-03</sub>
+- [Can a 7B Model Beat Frontier LLMs at Auditing Move? Inside SuiAudit Pure1](https://kxhuang.dev/2026/02/25/SuiAudit_paper/) <sub>2026-02-25</sub>
+- [Sui Bootcamp: Building an On-Chain Chat App in 24 Hours](https://kxhuang.dev/2025/12/10/Sui_bootcamp/) <sub>2025-12-10</sub>
+<!-- BLOG-POST-LIST:END -->
+
+<sub>→ <a href="https://kxhuang.dev/blog">All writing</a></sub>
+
+### Activity &nbsp;<sub><sup>動態</sup></sub>
+
+<p align="center">
+  <img src="profile-summary-card-output/dark/0-profile-details.svg" width="100%" alt="Contributions" />
+</p>
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BrianHuang813/BrianHuang813/raw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/BrianHuang813/BrianHuang813/raw/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/BrianHuang813/BrianHuang813/raw/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrianHuang813/BrianHuang813/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/BrianHuang813/BrianHuang813/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
   </picture>
-</div>
-
-<div align="center">
-  <br/>
-  <i>Thanks for visiting! Feel free to connect.</i>
-</div>
+</p>
