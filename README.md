@@ -30,8 +30,7 @@
 
 ### Writing &nbsp;<sub><sup>文章</sup></sub>
 
-<!-- BLOG-POST-LIST:START -->
-- [Blink Market — A Binary Prediction Market Protocol on Sui](https://kxhuang.dev/2026/06/06/BlinkMarket/) <sub>2026-06-06</sub>
+<!-- BLOG-POST-LIST:START -->- [Blink Market — A Binary Prediction Market Protocol on Sui](https://kxhuang.dev/2026/06/06/BlinkMarket/) <sub>2026-06-06</sub>
 - [What Gives Bitcoin Value? Consensus, Scarcity, and Utility](https://kxhuang.dev/2026/05/01/post_bitcoin_and_values/) <sub>2026-05-01</sub>
 - [SuiAudit — An AI Audit Tool for Sui Move Smart Contracts](https://kxhuang.dev/2026/03/03/SuiAudit/) <sub>2026-03-03</sub>
 - [Can a 7B Model Beat Frontier LLMs at Auditing Move? Inside SuiAudit Pure1](https://kxhuang.dev/2026/02/25/SuiAudit_paper/) <sub>2026-02-25</sub>
